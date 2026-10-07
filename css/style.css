@@ -815,7 +815,7 @@ section+section {
   }
 
   h1 {
-    font-size: clamp(3.5rem, 8vw, 5rem);
+    font-size: clamp(2.5rem, 8vw, 4.5rem);
     text-align: left;
     margin: 0 0 6px;
   }
